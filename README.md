@@ -1,2 +1,2 @@
-# UFOscraper
-Scraping for current UFO news!
+# Blog Scraper
+Scraping my old Blogger blog in order to archive it!
